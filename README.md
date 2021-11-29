@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-    Aula Financias : Min: 40:00
+    Aula Financias : Min: 01:09
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
