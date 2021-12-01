@@ -1,3 +1,4 @@
+
 import styled from "styled-components";
 
 export const Container = styled.div`
@@ -8,8 +9,7 @@ export const Container = styled.div`
     margin-top: -40px;
     display: flex;
     align-items: center;
-    
-`
+`;
 
 export const MonthArea = styled.div`
     flex: 1;
@@ -27,10 +27,9 @@ export const MonthArrow = styled.div`
 export const MonthTitle = styled.div`
     flex: 1;
     text-align: center;
-    
 `;
 
 export const ResumeArea = styled.div`
-    display: flex;
     flex: 2;
+    display: flex;
 `;
